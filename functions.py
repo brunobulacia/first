@@ -100,4 +100,7 @@ def borraVocales(x):
         if (x[:len(x)-1] in vowels):
             cut(x,len(x)-1)
     return x
+
+def borrarPrimero(x):
+    x.remove("hola")
         

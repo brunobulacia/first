@@ -1,7 +1,6 @@
 import functions as f
+d = ["hola",2,3,4]
 
-l = [1,2,3,4,5,6]
+f.borrarPrimero(d)
 
-
-x = "hola"
-print(f.borraVocales(x))    
+print(d)
