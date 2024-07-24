@@ -26,4 +26,4 @@ for i in range(1, x+1):
     aux = c.Sacar(aux)
     p.meter(aux)
 
-print(p.s)  
+# print(p.s)
